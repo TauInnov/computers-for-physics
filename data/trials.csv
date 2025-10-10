@@ -1,0 +1,4 @@
+trial_id,L_m,release_angle_deg,sensor_id,room_temp_C,notes
+T01,0.45,10,SENS_A,23.4,short pendulum small angle
+T02,0.80,20,SENS_B,22.8,medium length higher amplitude
+T03,1.20,15,SENS_C,24.1,long pendulum test
