@@ -3,18 +3,6 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: 0_intro
-- file: 1_week
-- file: 2_week
-- file: 3_week
-- file: 4_week
-- file: 5_week
-- file: 6_week
-- file: 7_week
-- file: 8_week
-- file: 9_week
-- file: 10_week
 
 
 
